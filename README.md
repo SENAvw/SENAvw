@@ -16,10 +16,10 @@ coraline0120@gmail.com
   https://youtube.com/@SENAvw
   
 - ▶️ **Tiktok**  
-  https://Tiktok.com/SENAvw3D
+  https://Tiktok.com/SENAvw_3D
 
 - ✍️ **Postype**  
   https://www.postype.com/@SENAvw
 
-- 🎨 **ArtStation**  
+- 🎨 **Portfolio**  
   https://www.artstation.com/kimchaeyeon
