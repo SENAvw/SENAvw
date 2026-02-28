@@ -15,8 +15,8 @@ coraline0120@gmail.com
 - ▶️ **YouTube**  
   https://youtube.com/@SENAvw
   
-  - ▶️ **Tiktok**  
-  https://Tiktok.com/SENAvw_3D
+- ▶️ **Tiktok**  
+  https://Tiktok.com/SENAvw3D
 
 - ✍️ **Postype**  
   https://www.postype.com/@SENAvw
