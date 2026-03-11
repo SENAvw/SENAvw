@@ -8,16 +8,6 @@ coraline0120@gmail.com
 ---
 
 ### 🔗 Links
-# SENAvv
-
-3D Artist
-
-📩 **Contact**  
-coraline0120@gmail.com
-
----
-
-### 🔗 Links
 <div align="left">
   <p>
     <strong>Instagram</strong><br>
