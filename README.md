@@ -16,7 +16,7 @@ coraline0120@gmail.com
   youtube.com/@SENAvw
 
 - ✍️ **Postype**  
-  ko-fi.com/senavw
+  https://ko-fi.com/senavw
 
 - 🎨 **Portfolio**  
   artstation.com/kimchaeyeon
