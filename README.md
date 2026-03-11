@@ -15,7 +15,7 @@ coraline0120@gmail.com
 - ▶️ **YouTube**  
   https://youtube.com/@SENAvw
 
-- ✍️ **Postype**  
+- 🎨 **ko-fi**  
   https://ko-fi.com/senavw
 
 - 🎨 **Portfolio**  
