@@ -1,9 +1,7 @@
 # SENAvv (@SENAvw)
-
 3D Artist
 
-📩 **Contact**  
-coraline0120@gmail.com
+📩 **  coraline0120@gmail.com**  
 
 ---
 
