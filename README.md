@@ -14,14 +14,14 @@
   </p>
 
   <p>
-    <strong>YouTube</strong><br>
+    <strong>Youtube</strong><br>
     <a href="https://youtube.com/@SENAvw">
       <img src="https://img.shields.io/badge/YouTube-72a4f2?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
   </p>
 
   <p>
-    <strong>ArtStation</strong><br>
+    <strong>Artstation</strong><br>
     <a href="https://artstation.com/kimchaeyeon">
       <img src="https://img.shields.io/badge/ArtStation-72a4f2?style=for-the-badge&logo=artstation&logoColor=white">
     </a>
