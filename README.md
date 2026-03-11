@@ -21,5 +21,4 @@ coraline0120@gmail.com
 
 
 - 🎨 **ko-fi**  
-  https://ko-fi.com/senavw
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N01VSZE8)
