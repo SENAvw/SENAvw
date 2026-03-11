@@ -1,24 +1,6 @@
-# SENAvv
+### 🔗 Links
 
-3D Artist
-
-📩 **Contact**  
-coraline0120@gmail.com
-
----
-
-## 🔗 Links
-
-- 📷 **Instagram**  
-  https://instagram.com/SENAvw
-
-- ▶️ **YouTube**  
-  https://youtube.com/@SENAvw
-
-
-- 🎨 **Portfolio**  
-  https://artstation.com/kimchaeyeon
-
-
-- 🎨 **ko-fi**  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N01VSZE8)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SENAvw)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SENAvw)
+[![ArtStation](https://img.shields.io/badge/ArtStation-000000?style=for-the-badge&logo=artstation&logoColor=white)](https://artstation.com/kimchaeyeon)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/N4N01VSZE8)
